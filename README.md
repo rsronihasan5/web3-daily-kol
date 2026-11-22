@@ -8,6 +8,10 @@ Part of the web3-daily series: [web3-daily](https://github.com/rsronihasan5/web3
 
 ## Posts
 
+### 2026-11-22
+
+- [Web3 KOL: Michael Saylor — buying the dip while underwater](./posts/2026-11-22/03-web3-kol-saylor.md)
+
 ### 2026-11-21
 
 - [Web3 KOL spotlight: Vitalik Buterin (@VitalikButerin)](./posts/2026-11-21/03-web3-kol-vitalikbuterin.md)
