@@ -8,6 +8,10 @@ Part of the web3-daily series: [web3-daily](https://github.com/rsronihasan5/web3
 
 ## Posts
 
+### 2026-11-23
+
+- [Web3 KOL: CZ — still setting the narrative in a bear market](./posts/2026-11-23/03-web3-kol-cz_binance.md)
+
 ### 2026-11-22
 
 - [Web3 KOL: Michael Saylor — buying the dip while underwater](./posts/2026-11-22/03-web3-kol-saylor.md)
