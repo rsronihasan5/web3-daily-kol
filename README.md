@@ -8,6 +8,10 @@ Part of the web3-daily series: [web3-daily](https://github.com/rsronihasan5/web3
 
 ## Posts
 
+### 2026-11-24
+
+- [Web3 KOL: Anatoly Yakovenko (@toly) — building the case that SOL is money](./posts/2026-11-24/03-web3-kol-toly.md)
+
 ### 2026-11-23
 
 - [Web3 KOL: CZ — still setting the narrative in a bear market](./posts/2026-11-23/03-web3-kol-cz_binance.md)
