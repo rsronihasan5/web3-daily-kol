@@ -8,6 +8,10 @@ Part of the web3-daily series: [web3-daily](https://github.com/rsronihasan5/web3
 
 ## Posts
 
+### 2026-11-25
+
+- [Web3 KOL: Brian Armstrong (@brian_armstrong) — betting the future economy runs on AI agents](./posts/2026-11-25/03-web3-kol-brian_armstrong.md)
+
 ### 2026-11-24
 
 - [Web3 KOL: Anatoly Yakovenko (@toly) — building the case that SOL is money](./posts/2026-11-24/03-web3-kol-toly.md)
