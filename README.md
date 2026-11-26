@@ -8,6 +8,10 @@ Part of the web3-daily series: [web3-daily](https://github.com/rsronihasan5/web3
 
 ## Posts
 
+### 2026-11-26
+
+- [Web3 KOL: Sergey Nazarov (@SergeyNazarov) — the oracle builder Wall Street keeps calling](./posts/2026-11-26/03-web3-kol-sergeynazarov.md)
+
 ### 2026-11-25
 
 - [Web3 KOL: Brian Armstrong (@brian_armstrong) — betting the future economy runs on AI agents](./posts/2026-11-25/03-web3-kol-brian_armstrong.md)
