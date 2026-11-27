@@ -8,6 +8,10 @@ Part of the web3-daily series: [web3-daily](https://github.com/rsronihasan5/web3
 
 ## Posts
 
+### 2026-11-27
+
+- [Web3 KOL spotlight: Vitalik Buterin — reframing what ETH is actually worth](./posts/2026-11-27/03-web3-kol-vitalikbuterin.md)
+
 ### 2026-11-26
 
 - [Web3 KOL: Sergey Nazarov (@SergeyNazarov) — the oracle builder Wall Street keeps calling](./posts/2026-11-26/03-web3-kol-sergeynazarov.md)
