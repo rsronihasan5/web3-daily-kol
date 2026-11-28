@@ -8,6 +8,10 @@ Part of the web3-daily series: [web3-daily](https://github.com/rsronihasan5/web3
 
 ## Posts
 
+### 2026-11-28
+
+- [Web3 KOL spotlight: ZachXBT — the investigator crypto can't ignore](./posts/2026-11-28/03-web3-kol-zachxbt.md)
+
 ### 2026-11-27
 
 - [Web3 KOL spotlight: Vitalik Buterin — reframing what ETH is actually worth](./posts/2026-11-27/03-web3-kol-vitalikbuterin.md)
